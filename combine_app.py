@@ -17,7 +17,7 @@ heart_scaler = heart_model_data['scaler']
 # 📍 Sidebar navigation
 with st.sidebar:
     selected = option_menu(
-        'Made By Badmosh',
+        'Made By Daku',
         [' Diabetes Prediction', ' Heart Disease Prediction', ' Parkinson’s Prediction'],
         icons=['activity', 'heart', 'person'],
         default_index=0
